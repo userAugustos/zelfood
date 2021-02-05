@@ -1,0 +1,14 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "imageUrl": "https://astron.com.br/wp-content/uploads/2017/07/pizza-site-or.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Hamburger",
+      "imageUrl": "https://exame.com/wp-content/uploads/2020/05/mafe-studio-LV2p9Utbkbw-unsplash-1.jpg"
+    }
+  ]
+}
