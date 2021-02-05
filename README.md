@@ -1,9 +1,11 @@
 # zelfood
 Zelfood it's a website that records foods, ok sounds weirdo. 
 
-### This is a chalenge proposed by Andrew of Zelpay
+## This is a chalenge proposed by Andrew of Zelpay
 
-## So you need to rum npm instal ou yarn in api and zelfood, in both folders.
+![Zelfood home](https://i.imgur.com/pVxOe5E.png)
+
+### So you need to rum npm instal ou yarn in api and zelfood, in both folders.
 
  - After this, to run Api and read/write in json, run **npm run dev**
  - And **npm start** to start the reactjs
